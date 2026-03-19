@@ -2,4 +2,6 @@ pandas
 numpy
 scikit-learn
 streamlit
-sqlite3
+seaborn
+matplotlib
+plotly
