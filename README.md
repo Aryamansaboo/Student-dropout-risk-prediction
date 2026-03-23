@@ -89,7 +89,7 @@ Each model is evaluated on a stratified 20 % hold-out test set using:
 
 ## Dashboard Features
 
-### Tab 1 – 📊 Data Insights
+### Tab 1 – Data Insights
 - 6 KPI cards (total, at-risk, safe, averages)
 - Feature correlation heatmap
 - Average dropout risk % by semester
