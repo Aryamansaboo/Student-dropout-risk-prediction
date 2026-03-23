@@ -1,4 +1,4 @@
-# 🎓 Student Course Dropout Risk Prediction
+# Student Course Dropout Risk Prediction
 
 ## Overview
 
@@ -97,16 +97,16 @@ Each model is evaluated on a stratified 20 % hold-out test set using:
 - Assignment vs Mid-Sem scatter plot
 - Key insight metrics panel
 
-### Tab 2 – 🔮 AI Risk Predictor
+### Tab 2 – AI Risk Predictor
 - Real-time dropout probability for any student profile
 - Risk factor flag chart (which conditions are triggered)
 - Colour-coded risk tier (critical / moderate / safe)
 
-### Tab 3 – 📈 Model Comparison
+### Tab 3 – Model Comparison
 - Performance table with best/worst highlighting
 - Grouped bar chart across all metrics and models
 
-### Tab 4 – 📋 Classification Reports
+### Tab 4 – Classification Reports
 - Per-class precision, recall, F1 for chosen model
 - Grouped bar chart: Not At Risk vs At Risk per metric
 
